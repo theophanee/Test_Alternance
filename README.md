@@ -1,11 +1,11 @@
 # Test_Alternance
 
-## Utilisation :
+## Utilisation 
 
-Se placer dans /pokemon
-Lancer la commande "npm start"
-Se placer dans /pokemon/server
-Lancer la commande "npm run serve"
+- Se placer dans /pokemon
+- Lancer la commande "npm start"
+- Se placer dans /pokemon/server
+- Lancer la commande "npm run serve"
 
 ## Excplications
 
